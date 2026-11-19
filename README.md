@@ -7,22 +7,22 @@
 
 | File | Description |
 |:---|:---|
-| Python | [Set 1 – Python Implementation](./Set%201%20-%20Retail%20Order%20Desk/code_file.py) |
-| CSV | [Set 1 – Orders Dataset](./Set%201%20-%20Retail%20Order%20Desk/orders.csv) |
+| Python | [Set 1 – Python Implementation](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%201/code_file.py) |
+| CSV | [Set 1 – Orders Dataset](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%201/orders.csv) |
 
 ### Set 2 – Retail Banking Transaction Review
 
 | File | Description |
 |:---|:---|
-| Python | [Set 2 – Python Implementation](./Set%202%20-%20Retail%20Banking%20Transaction%20Review/code_file.py) |
-| CSV | [Set 2 – Transactions Dataset](./Set%202%20-%20Retail%20Banking%20Transaction%20Review/transactions.csv) |
+| Python | [Set 2 – Python Implementation](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%202/code_file.py) |
+| CSV | [Set 2 – Transactions Dataset](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%202/transactions.csv) |
 
 ### Set 3 – Hospital Appointment Desk
 
 | File | Description |
 |:---|:---|
-| Python | [Set 3 – Python Implementation](./Set%203%20-%20Hospital%20Appointment%20Desk/code_file.py) |
-| CSV | [Set 3 – Patient Records Dataset](./Set%203%20-%20Hospital%20Appointment%20Desk/records.csv) |
+| Python | [Set 3 – Python Implementation](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%203/code_file.py) |
+| CSV | [Set 3 – Patient Records Dataset](https://github.com/Santhosh-S-Hexaware-Assignments/Day-1-Problem-Solving-Techniques-and-Data-Structures/blob/main/Set%20-%203/records.csv) |
 
 ## 📁 Repository Structure
 
